@@ -8,7 +8,7 @@ Finance & Analytics | AR • AP • GL | Consolidated Revenue Reporting | Abu Dh
 <p align="center">
   <a href=https://www.linkedin.com/in/sreesesh-kakkarayil-5b98891aa">LinkedIn</a> •
   <a href=sree7823@yahoo.com">Email</a> •
-  <a href=(https://drive.google.com/file/d/1K3F9xQEqJVoeNP9zzhXLSE6aUy8LDzYJ/view?usp=drivesdk)>Resume</a>
+  <a href="https://drive.google.com/file/d/1K3F9xQEqJVoeNP9zzhXLSE6aUy8LDzYJ/view?usp=drivesdk">Resume</a>
 </p>
 
 ---
